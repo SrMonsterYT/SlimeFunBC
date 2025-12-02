@@ -9,7 +9,7 @@
 
     <!-- Our default version will be UNOFFICIAL, this will prevent auto updates -->
     <!-- from overriding our local test file -->
-    <version>5.0.5-UNOFFICIAL</version>
+    <version>SlimeFun-BC</version>
     <inceptionYear>2013</inceptionYear>
     <packaging>jar</packaging>
 
